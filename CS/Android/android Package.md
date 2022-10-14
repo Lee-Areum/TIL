@@ -14,6 +14,8 @@
 - Google Play에서 다운로드 하는 APK는 100MB 이하여야 한다.
     - 이상이면 앱을 실행할 때 개발자가 직접 리소스를 호스팅하고 다운로드함
 
+---
+
 ### AAB(Android App Bundle)
 
 - Android용 게시 형식
