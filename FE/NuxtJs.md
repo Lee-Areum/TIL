@@ -106,3 +106,10 @@ state 값을 변경함
 inject : context(전역)에 주입하는 명령어 
 
 - 사용시 $로 호출 가능
+
+## nuxtJS 만의 요소들
+- $store
+- $router
+
+- $를 사용하는 클래스들은 전역으로 사용할 수 이쓴 것
+   => Vue.prototype.abc = function(){} 이런 식으로 지정
