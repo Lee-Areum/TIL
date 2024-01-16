@@ -113,3 +113,7 @@ created: function(){
 
 ## 하얀 화면이 나오는 경우
 - router의 이동 경로가 이상한 경우(오류), script 실행 중 오류가 나는 경우
+
+## Mixin
+vue의 script 외에 js파일을 사용할 수 있도록 선언하는것
+mixin으로 공통js파일을 가져와 사용할 수 있음
