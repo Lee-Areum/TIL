@@ -1,4 +1,4 @@
-ㅈ# TIL
+# TIL
 Today I Learned
 
 - Android
