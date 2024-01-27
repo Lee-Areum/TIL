@@ -4,5 +4,4 @@ oracle 용어
 - trigger
 - view
 - table
-- 
   
