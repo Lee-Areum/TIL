@@ -1,3 +1,6 @@
-### Java에서 2중배열 사용하기
-
-### java 정렬
+### Java에서 2차원 배열 사용하기  
+```
+int[][] array;
+int [][]array;
+int array[][];
+```
